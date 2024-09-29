@@ -46,6 +46,7 @@
     "files": [
       "app/helpers/components/card_helper.rb",
       "app/views/components/ui/_card.html.erb",
+      "app/views/components/ui/_dashboard_card.html.erb",
       "app/javascript/controllers/ui/card_controller.js"
     ]
   },
